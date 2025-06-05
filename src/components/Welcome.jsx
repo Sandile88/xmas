@@ -749,9 +749,9 @@ const Welcome = () => {
 <>
   {/* Account Info Section - Only show when connected */}
   <div className="flex flex-col lg:flex-row lg:gap-8">
+
     {/* Approve UZAR section */}
     <div className="lg:w-1/2">
-      
     <div className="bg-white/10 dark:bg-white/5 backdrop-blur-sm rounded-xl p-8 border border-[#346f8f]/10 dark:border-white/10 mb-20">
       <h2 className="text-2xl font-semibold mb-6 text-[#346f8f] dark:text-white">Account Information</h2>
       <div className="space-y-6">
